@@ -7,7 +7,7 @@ This is a Note adding application, the added Notes get displayed on the screen
 pressing the Add button takes you to the screen for adding Notes
 
 
-<img src="(https://user-images.githubusercontent.com/110277652/198894038-5f714a66-9f12-419d-b05d-315fc1d2fc86.png" width="400px" height="400px"/>
+<img src="https://user-images.githubusercontent.com/110277652/198894038-5f714a66-9f12-419d-b05d-315fc1d2fc86.png" width="400px" height="400px"/>
 
 Writing the note and saving it adds it to the first screen
 
